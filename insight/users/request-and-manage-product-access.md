@@ -55,3 +55,5 @@ Platform Administrators manage Platform users' product access and trial requests
 2. Click **Requests** in the upper right corner. "New User" requests are displayed first by default. If you need to view and manage Product Access, Product Trial, or External User requests instead, you can go to the relevant tab.
 
  ![User Requests Tab](/insight/images/UserRequests.png)
+  this is example text
+  
