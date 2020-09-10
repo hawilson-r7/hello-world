@@ -31,7 +31,7 @@ Requests are then processed by Platform Administrators who can grant or reject a
 
 As an Insight Platform User you can request to any Platform product your company is subscribed to, regardless of your user role. From the Insight Platform home page, click the **Request Access** button for the product you want access to.
 
-![InsightOps Application Tile](/insight/images/insightOps.png)
+![InsightOps Application Tile](/insight/images/sample.jpg)
 
 
 A Platform Administrator at your company will grant or reject access and you'll receive and email reagrding the status of your request.
